@@ -23,29 +23,30 @@ global.owner = ['0754377088']
 global.premium = ['0754377088']
 global.ownernomer = '0754377088'
 global.ownername = '🦊➬[ 𝚃𝙴𝙲𝙷 𝙿𝙰𝚂𝙸𝙳𝚄 ]🦊'
-global.botname = '🦊𝗩𝗣 - 𝗪𝗢𝗟𝗙🦊'
+global.botname = '🦊_ VP-WOLF _🦊'
 global.footer = '©NexusNwInc.'
-global.ig = '🤣ලින්ක් නැනෙ මහත්තයෝ🤣'
+global.ig = '😀 ලින්ක් නැනෙ මහත්තයෝ'
 global.region = 'India, South India, Kerala'
 global.sc = 'Jojo-bot'
 global.MyWhatsappGroup = 'https://chat.whatsapp.com/HpwtSrIPa3hH9QLRCPyMCN'
 global.packname = '🦊Pack-List🦊'
-global.author = '🦊Pasidu-WOLF🦊'
+global.author = '🦊Pasidu-Bot🦊
 global.sessionName = 'session'
-global.prefa = ['#','!','.','🦊','🐧','🥳']
+global.prefa = ['#','!','.','🕊️','🐧','🗿']
 global.sp = '🦊'
 global.mess = {
-    success: '🥳 Done ✓🥳',
-    admin: '🥳This Feature Is Only For Admin😜!',
+    success: 'Done ✓',
+    admin: 'This Feature Is Only For Admin😜!',
     botAdmin: 'Bot Must Be Admin First🤹‍♂️!',
-    owner: '🐧This Feature Is Only For Owner🐧!',
+    owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups🐋!',
-    private: '🕊️Features Used Only For Private Chat🕊️!',
-    bot: '🦊 This Feature Is Only For Bot 🦊',
-    wait: '🔄 රැදී සිටින්න ➯🪄...',
+    private: 'Features Used Only For Private Chat🕊️!',
+    bot: 'This Feature Is Only For Bot 🐣',
+    wait: 'Wait A minute 🪄...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
+	
     global.limitawal = {
     premium: "Infinity",
     free: 12,
